@@ -1,6 +1,4 @@
 ## Welcome to FlanService Pages
-<img width=554 height=415
-src="index.files/Koala.jpg"></p>
 You can use the [editor on GitHub](https://github.com/FlanService/aaa/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
